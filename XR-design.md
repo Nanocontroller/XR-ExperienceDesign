@@ -1,7 +1,7 @@
-<!-- .slide: data-background="media/img/F-Lisbon.png" data-state="state--bg-dark" -->
+<!-- .slide: data-background="media/img/sense-touch-design-compressor.jpg" data-state="state--bg-dark" -->
 
 <div class="talk-title">
-  <h1>Teaching XR technology as a Fulbright Fellow in Portugal</h1>
+  <h1>XR BUtterflies</h1>
   <p class="talk-info">
     Brenda A. López Silva | 2021 Fulbright Scholar 
   </p>
